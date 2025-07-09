@@ -12,7 +12,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Compiling main.cpp with g++...'
-                bat 'g++ main.cpp -o todo.exe'
+                bat 'g++ -std=c++20 main.cpp -o todo.exe'
             }
         }
 
