@@ -1,0 +1,3 @@
+C:/Users/attri/CLionProjects/TODOManager/cmake-build-debug/CMakeFiles/TODOManager.dir
+C:/Users/attri/CLionProjects/TODOManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/attri/CLionProjects/TODOManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
